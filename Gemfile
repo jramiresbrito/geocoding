@@ -24,6 +24,7 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 
 # Geocoding
+gem 'geocoder'
 
 group :development, :test do
   gem 'pry-byebug'
